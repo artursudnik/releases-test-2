@@ -1854,10 +1854,10 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
-release-please@^14.17.2:
-  version "14.17.2"
-  resolved "https://registry.yarnpkg.com/release-please/-/release-please-14.17.2.tgz#1c450d3b1fb76cacd4d33cec20b1ba0c737bfe04"
-  integrity sha512-fuTnRMf/MK+D94uuHa0VfZrxsGZykOktvaLwjc33IVtOlOj7UTuwx3M8aLEJyrYh4vzlV9bycYXPX0MqwlGtzg==
+release-please@^15.0.0:
+  version "15.0.0"
+  resolved "https://registry.yarnpkg.com/release-please/-/release-please-15.0.0.tgz#7c51807720bb7af67b6b1fe62ed8e2c3f490fb7c"
+  integrity sha512-xNN/+xMuShbcpyLY0Gliu1OGHsz8gTNZzl/8V7i7BlphOJR9M0QTbp1vBxiBuy1IVm9NJEZ8DVytYXBGSguc3A==
   dependencies:
     "@conventional-commits/parser" "^0.4.1"
     "@google-automations/git-file-utils" "^1.2.0"
