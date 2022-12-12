@@ -13,6 +13,6 @@
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
     "husky": "^8.0.2",
-    "release-please": "^14.17.2"
+    "release-please": "^15.0.0"
   }
 }
